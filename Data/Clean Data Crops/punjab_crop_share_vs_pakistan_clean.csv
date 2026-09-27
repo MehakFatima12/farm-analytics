@@ -1,0 +1,937 @@
+Fiscal Year,Start Year,Crop,Metric,Geography,Value
+2007-08,2007,Bajra,Area,Pakistan,531.0
+2007-08,2007,Bajra,Area,Punjab,368.0
+2007-08,2007,Bajra,Area Share,Punjab,69.0
+2007-08,2007,Bajra,Production,Pakistan,305.0
+2007-08,2007,Bajra,Production,Punjab,224.0
+2007-08,2007,Bajra,Production Share,Punjab,73.0
+2007-08,2007,Barley,Area,Pakistan,91.0
+2007-08,2007,Barley,Area,Punjab,33.0
+2007-08,2007,Barley,Area Share,Punjab,36.0
+2007-08,2007,Barley,Production,Pakistan,87.0
+2007-08,2007,Barley,Production,Punjab,29.0
+2007-08,2007,Barley,Production Share,Punjab,33.0
+2007-08,2007,Cotton,Area,Pakistan,3054.0
+2007-08,2007,Cotton,Area,Punjab,2425.0
+2007-08,2007,Cotton,Area Share,Punjab,79.0
+2007-08,2007,Cotton,Production,Pakistan,11655.0
+2007-08,2007,Cotton,Production,Punjab,9062.0
+2007-08,2007,Cotton,Production Share,Punjab,78.0
+2007-08,2007,Gram,Area,Pakistan,1107.0
+2007-08,2007,Gram,Area,Punjab,989.0
+2007-08,2007,Gram,Area Share,Punjab,89.0
+2007-08,2007,Gram,Production,Pakistan,475.0
+2007-08,2007,Gram,Production,Punjab,388.0
+2007-08,2007,Gram,Production Share,Punjab,82.0
+2007-08,2007,Jowar,Area,Pakistan,281.0
+2007-08,2007,Jowar,Area,Punjab,189.0
+2007-08,2007,Jowar,Area Share,Punjab,67.0
+2007-08,2007,Jowar,Production,Pakistan,170.0
+2007-08,2007,Jowar,Production,Punjab,104.0
+2007-08,2007,Jowar,Production Share,Punjab,61.0
+2007-08,2007,Maize,Area,Pakistan,1052.0
+2007-08,2007,Maize,Area,Punjab,535.0
+2007-08,2007,Maize,Area Share,Punjab,51.0
+2007-08,2007,Maize,Production,Pakistan,3605.0
+2007-08,2007,Maize,Production,Punjab,2694.0
+2007-08,2007,Maize,Production Share,Punjab,75.0
+2007-08,2007,Rapeseed & Mustard,Area,Pakistan,224.0
+2007-08,2007,Rapeseed & Mustard,Area,Punjab,127.0
+2007-08,2007,Rapeseed & Mustard,Area Share,Punjab,57.0
+2007-08,2007,Rapeseed & Mustard,Production,Pakistan,176.0
+2007-08,2007,Rapeseed & Mustard,Production,Punjab,103.0
+2007-08,2007,Rapeseed & Mustard,Production Share,Punjab,59.0
+2007-08,2007,Rice,Area,Pakistan,2515.0
+2007-08,2007,Rice,Area,Punjab,1724.0
+2007-08,2007,Rice,Area Share,Punjab,69.0
+2007-08,2007,Rice,Production,Pakistan,5563.0
+2007-08,2007,Rice,Production,Punjab,3286.0
+2007-08,2007,Rice,Production Share,Punjab,59.0
+2007-08,2007,Sesamum,Area,Pakistan,76.0
+2007-08,2007,Sesamum,Area,Punjab,66.0
+2007-08,2007,Sesamum,Area Share,Punjab,66.0
+2007-08,2007,Sesamum,Production,Pakistan,33.0
+2007-08,2007,Sesamum,Production,Punjab,28.0
+2007-08,2007,Sesamum,Production Share,Punjab,84.0
+2007-08,2007,Sugarcane,Area,Pakistan,1241.0
+2007-08,2007,Sugarcane,Area,Punjab,827.0
+2007-08,2007,Sugarcane,Area Share,Punjab,67.0
+2007-08,2007,Sugarcane,Production,Pakistan,63920.0
+2007-08,2007,Sugarcane,Production,Punjab,40306.0
+2007-08,2007,Sugarcane,Production Share,Punjab,63.0
+2007-08,2007,Tobacco,Area,Pakistan,51.0
+2007-08,2007,Tobacco,Area,Punjab,17.0
+2007-08,2007,Tobacco,Area Share,Punjab,32.0
+2007-08,2007,Tobacco,Production,Pakistan,108.0
+2007-08,2007,Tobacco,Production,Punjab,20.0
+2007-08,2007,Tobacco,Production Share,Punjab,18.0
+2007-08,2007,Wheat,Area,Pakistan,8550.0
+2007-08,2007,Wheat,Area,Punjab,6402.0
+2007-08,2007,Wheat,Area Share,Punjab,75.0
+2007-08,2007,Wheat,Production,Pakistan,20959.0
+2007-08,2007,Wheat,Production,Punjab,15607.0
+2007-08,2007,Wheat,Production Share,Punjab,74.0
+2008-09,2008,Bajra,Area,Pakistan,470.0
+2008-09,2008,Bajra,Area,Punjab,387.0
+2008-09,2008,Bajra,Area Share,Punjab,82.0
+2008-09,2008,Bajra,Production,Pakistan,296.0
+2008-09,2008,Bajra,Production,Punjab,247.0
+2008-09,2008,Bajra,Production Share,Punjab,83.0
+2008-09,2008,Barley,Area,Pakistan,86.0
+2008-09,2008,Barley,Area,Punjab,33.0
+2008-09,2008,Barley,Area Share,Punjab,38.0
+2008-09,2008,Barley,Production,Pakistan,82.0
+2008-09,2008,Barley,Production,Punjab,30.0
+2008-09,2008,Barley,Production Share,Punjab,37.0
+2008-09,2008,Cotton,Area,Pakistan,2820.0
+2008-09,2008,Cotton,Area,Punjab,2224.0
+2008-09,2008,Cotton,Area Share,Punjab,79.0
+2008-09,2008,Cotton,Production,Pakistan,11819.0
+2008-09,2008,Cotton,Production,Punjab,8751.0
+2008-09,2008,Cotton,Production Share,Punjab,74.0
+2008-09,2008,Gram,Area,Pakistan,1081.0
+2008-09,2008,Gram,Area,Punjab,969.0
+2008-09,2008,Gram,Area Share,Punjab,90.0
+2008-09,2008,Gram,Production,Pakistan,741.0
+2008-09,2008,Gram,Production,Punjab,658.0
+2008-09,2008,Gram,Production Share,Punjab,89.0
+2008-09,2008,Jowar,Area,Pakistan,263.0
+2008-09,2008,Jowar,Area,Punjab,183.0
+2008-09,2008,Jowar,Area Share,Punjab,70.0
+2008-09,2008,Jowar,Production,Pakistan,165.0
+2008-09,2008,Jowar,Production,Punjab,102.0
+2008-09,2008,Jowar,Production Share,Punjab,62.0
+2008-09,2008,Maize,Area,Pakistan,1052.0
+2008-09,2008,Maize,Area,Punjab,534.0
+2008-09,2008,Maize,Area Share,Punjab,51.0
+2008-09,2008,Maize,Production,Pakistan,3593.0
+2008-09,2008,Maize,Production,Punjab,2627.0
+2008-09,2008,Maize,Production Share,Punjab,73.0
+2008-09,2008,Rapeseed & Mustard,Area,Pakistan,233.0
+2008-09,2008,Rapeseed & Mustard,Area,Punjab,142.0
+2008-09,2008,Rapeseed & Mustard,Area Share,Punjab,61.0
+2008-09,2008,Rapeseed & Mustard,Production,Pakistan,188.0
+2008-09,2008,Rapeseed & Mustard,Production,Punjab,121.0
+2008-09,2008,Rapeseed & Mustard,Production Share,Punjab,64.0
+2008-09,2008,Rice,Area,Pakistan,2963.0
+2008-09,2008,Rice,Area,Punjab,1978.0
+2008-09,2008,Rice,Area Share,Punjab,67.0
+2008-09,2008,Rice,Production,Pakistan,6952.0
+2008-09,2008,Rice,Production,Punjab,3643.0
+2008-09,2008,Rice,Production Share,Punjab,52.0
+2008-09,2008,Sesamum,Area,Pakistan,91.0
+2008-09,2008,Sesamum,Area,Punjab,76.0
+2008-09,2008,Sesamum,Area Share,Punjab,76.0
+2008-09,2008,Sesamum,Production,Pakistan,41.0
+2008-09,2008,Sesamum,Production,Punjab,33.0
+2008-09,2008,Sesamum,Production Share,Punjab,81.0
+2008-09,2008,Sugarcane,Area,Pakistan,1029.0
+2008-09,2008,Sugarcane,Area,Punjab,667.0
+2008-09,2008,Sugarcane,Area Share,Punjab,65.0
+2008-09,2008,Sugarcane,Production,Pakistan,50045.0
+2008-09,2008,Sugarcane,Production,Punjab,32295.0
+2008-09,2008,Sugarcane,Production Share,Punjab,65.0
+2008-09,2008,Tobacco,Area,Pakistan,50.0
+2008-09,2008,Tobacco,Area,Punjab,16.0
+2008-09,2008,Tobacco,Area Share,Punjab,33.0
+2008-09,2008,Tobacco,Production,Pakistan,105.0
+2008-09,2008,Tobacco,Production,Punjab,20.0
+2008-09,2008,Tobacco,Production Share,Punjab,19.0
+2008-09,2008,Wheat,Area,Pakistan,9046.0
+2008-09,2008,Wheat,Area,Punjab,6836.0
+2008-09,2008,Wheat,Area Share,Punjab,76.0
+2008-09,2008,Wheat,Production,Pakistan,24033.0
+2008-09,2008,Wheat,Production,Punjab,18420.0
+2008-09,2008,Wheat,Production Share,Punjab,77.0
+2009-10,2009,Bajra,Area,Pakistan,476.0
+2009-10,2009,Bajra,Area,Punjab,395.0
+2009-10,2009,Bajra,Area Share,Punjab,83.0
+2009-10,2009,Bajra,Production,Pakistan,293.0
+2009-10,2009,Bajra,Production,Punjab,245.0
+2009-10,2009,Bajra,Production Share,Punjab,84.0
+2009-10,2009,Barley,Area,Pakistan,84.0
+2009-10,2009,Barley,Area,Punjab,31.0
+2009-10,2009,Barley,Area Share,Punjab,37.0
+2009-10,2009,Barley,Production,Pakistan,71.0
+2009-10,2009,Barley,Production,Punjab,28.0
+2009-10,2009,Barley,Production Share,Punjab,39.0
+2009-10,2009,Cotton,Area,Pakistan,3106.0
+2009-10,2009,Cotton,Area,Punjab,2436.0
+2009-10,2009,Cotton,Area Share,Punjab,78.0
+2009-10,2009,Cotton,Production,Pakistan,12913.0
+2009-10,2009,Cotton,Production,Punjab,8552.0
+2009-10,2009,Cotton,Production Share,Punjab,66.0
+2009-10,2009,Gram,Area,Pakistan,1067.0
+2009-10,2009,Gram,Area,Punjab,967.0
+2009-10,2009,Gram,Area Share,Punjab,91.0
+2009-10,2009,Gram,Production,Pakistan,562.0
+2009-10,2009,Gram,Production,Punjab,488.0
+2009-10,2009,Gram,Production Share,Punjab,87.0
+2009-10,2009,Jowar,Area,Pakistan,248.0
+2009-10,2009,Jowar,Area,Punjab,184.0
+2009-10,2009,Jowar,Area Share,Punjab,74.0
+2009-10,2009,Jowar,Production,Pakistan,154.0
+2009-10,2009,Jowar,Production,Punjab,104.0
+2009-10,2009,Jowar,Production Share,Punjab,67.0
+2009-10,2009,Maize,Area,Pakistan,935.0
+2009-10,2009,Maize,Area,Punjab,505.0
+2009-10,2009,Maize,Area Share,Punjab,54.0
+2009-10,2009,Maize,Production,Pakistan,3262.0
+2009-10,2009,Maize,Production,Punjab,2502.0
+2009-10,2009,Maize,Production Share,Punjab,77.0
+2009-10,2009,Rapeseed & Mustard,Area,Pakistan,178.0
+2009-10,2009,Rapeseed & Mustard,Area,Punjab,112.0
+2009-10,2009,Rapeseed & Mustard,Area Share,Punjab,63.0
+2009-10,2009,Rapeseed & Mustard,Production,Pakistan,151.0
+2009-10,2009,Rapeseed & Mustard,Production,Punjab,96.0
+2009-10,2009,Rapeseed & Mustard,Production Share,Punjab,64.0
+2009-10,2009,Rice,Area,Pakistan,2883.0
+2009-10,2009,Rice,Area,Punjab,1932.0
+2009-10,2009,Rice,Area Share,Punjab,67.0
+2009-10,2009,Rice,Production,Pakistan,6883.0
+2009-10,2009,Rice,Production,Punjab,3713.0
+2009-10,2009,Rice,Production Share,Punjab,54.0
+2009-10,2009,Sesamum,Area,Pakistan,80.0
+2009-10,2009,Sesamum,Area,Punjab,64.0
+2009-10,2009,Sesamum,Area Share,Punjab,64.0
+2009-10,2009,Sesamum,Production,Pakistan,33.0
+2009-10,2009,Sesamum,Production,Punjab,25.0
+2009-10,2009,Sesamum,Production Share,Punjab,76.0
+2009-10,2009,Sugarcane,Area,Pakistan,943.0
+2009-10,2009,Sugarcane,Area,Punjab,607.0
+2009-10,2009,Sugarcane,Area Share,Punjab,64.0
+2009-10,2009,Sugarcane,Production,Pakistan,49373.0
+2009-10,2009,Sugarcane,Production,Punjab,31323.0
+2009-10,2009,Sugarcane,Production Share,Punjab,63.0
+2009-10,2009,Tobacco,Area,Pakistan,56.0
+2009-10,2009,Tobacco,Area,Punjab,18.0
+2009-10,2009,Tobacco,Area Share,Punjab,32.0
+2009-10,2009,Tobacco,Production,Pakistan,119.0
+2009-10,2009,Tobacco,Production,Punjab,23.0
+2009-10,2009,Tobacco,Production Share,Punjab,20.0
+2009-10,2009,Wheat,Area,Pakistan,9132.0
+2009-10,2009,Wheat,Area,Punjab,6914.0
+2009-10,2009,Wheat,Area Share,Punjab,76.0
+2009-10,2009,Wheat,Production,Pakistan,23311.0
+2009-10,2009,Wheat,Production,Punjab,17919.0
+2009-10,2009,Wheat,Production Share,Punjab,77.0
+2010-11,2010,Bajra,Area,Pakistan,548.0
+2010-11,2010,Bajra,Area,Punjab,394.0
+2010-11,2010,Bajra,Area Share,Punjab,72.0
+2010-11,2010,Bajra,Production,Pakistan,346.0
+2010-11,2010,Bajra,Production,Punjab,270.0
+2010-11,2010,Bajra,Production Share,Punjab,78.0
+2010-11,2010,Barley,Area,Pakistan,77.0
+2010-11,2010,Barley,Area,Punjab,26.0
+2010-11,2010,Barley,Area Share,Punjab,33.0
+2010-11,2010,Barley,Production,Pakistan,71.0
+2010-11,2010,Barley,Production,Punjab,25.0
+2010-11,2010,Barley,Production Share,Punjab,35.0
+2010-11,2010,Cotton,Area,Pakistan,2689.0
+2010-11,2010,Cotton,Area,Punjab,2201.0
+2010-11,2010,Cotton,Area Share,Punjab,82.0
+2010-11,2010,Cotton,Production,Pakistan,11460.0
+2010-11,2010,Cotton,Production,Punjab,7854.0
+2010-11,2010,Cotton,Production Share,Punjab,69.0
+2010-11,2010,Gram,Area,Pakistan,1054.0
+2010-11,2010,Gram,Area,Punjab,965.0
+2010-11,2010,Gram,Area Share,Punjab,92.0
+2010-11,2010,Gram,Production,Pakistan,496.0
+2010-11,2010,Gram,Production,Punjab,429.0
+2010-11,2010,Gram,Production Share,Punjab,87.0
+2010-11,2010,Jowar,Area,Pakistan,229.0
+2010-11,2010,Jowar,Area,Punjab,180.0
+2010-11,2010,Jowar,Area Share,Punjab,78.0
+2010-11,2010,Jowar,Production,Pakistan,141.0
+2010-11,2010,Jowar,Production,Punjab,107.0
+2010-11,2010,Jowar,Production Share,Punjab,75.0
+2010-11,2010,Maize,Area,Pakistan,974.0
+2010-11,2010,Maize,Area,Punjab,544.0
+2010-11,2010,Maize,Area Share,Punjab,56.0
+2010-11,2010,Maize,Production,Pakistan,3707.0
+2010-11,2010,Maize,Production,Punjab,2959.0
+2010-11,2010,Maize,Production Share,Punjab,80.0
+2010-11,2010,Rapeseed & Mustard,Area,Pakistan,199.0
+2010-11,2010,Rapeseed & Mustard,Area,Punjab,136.0
+2010-11,2010,Rapeseed & Mustard,Area Share,Punjab,68.0
+2010-11,2010,Rapeseed & Mustard,Production,Pakistan,173.0
+2010-11,2010,Rapeseed & Mustard,Production,Punjab,125.0
+2010-11,2010,Rapeseed & Mustard,Production Share,Punjab,72.0
+2010-11,2010,Rice,Area,Pakistan,2365.0
+2010-11,2010,Rice,Area,Punjab,1767.0
+2010-11,2010,Rice,Area Share,Punjab,75.0
+2010-11,2010,Rice,Production,Pakistan,4823.0
+2010-11,2010,Rice,Production,Punjab,3384.0
+2010-11,2010,Rice,Production Share,Punjab,70.0
+2010-11,2010,Sesamum,Area,Pakistan,78.0
+2010-11,2010,Sesamum,Area,Punjab,64.0
+2010-11,2010,Sesamum,Area Share,Punjab,64.0
+2010-11,2010,Sesamum,Production,Pakistan,31.0
+2010-11,2010,Sesamum,Production,Punjab,24.0
+2010-11,2010,Sesamum,Production Share,Punjab,77.0
+2010-11,2010,Sugarcane,Area,Pakistan,988.0
+2010-11,2010,Sugarcane,Area,Punjab,672.0
+2010-11,2010,Sugarcane,Area Share,Punjab,68.0
+2010-11,2010,Sugarcane,Production,Pakistan,55309.0
+2010-11,2010,Sugarcane,Production,Punjab,37481.0
+2010-11,2010,Sugarcane,Production Share,Punjab,68.0
+2010-11,2010,Tobacco,Area,Pakistan,51.0
+2010-11,2010,Tobacco,Area,Punjab,17.0
+2010-11,2010,Tobacco,Area Share,Punjab,33.0
+2010-11,2010,Tobacco,Production,Pakistan,103.0
+2010-11,2010,Tobacco,Production,Punjab,22.0
+2010-11,2010,Tobacco,Production Share,Punjab,22.0
+2010-11,2010,Wheat,Area,Pakistan,8901.0
+2010-11,2010,Wheat,Area,Punjab,6691.0
+2010-11,2010,Wheat,Area Share,Punjab,75.0
+2010-11,2010,Wheat,Production,Pakistan,25214.0
+2010-11,2010,Wheat,Production,Punjab,19041.0
+2010-11,2010,Wheat,Production Share,Punjab,76.0
+2011-12,2011,Bajra,Area,Pakistan,458.0
+2011-12,2011,Bajra,Area,Punjab,409.0
+2011-12,2011,Bajra,Area Share,Punjab,89.0
+2011-12,2011,Bajra,Production,Pakistan,304.0
+2011-12,2011,Bajra,Production,Punjab,282.0
+2011-12,2011,Bajra,Production Share,Punjab,93.0
+2011-12,2011,Barley,Area,Pakistan,72.0
+2011-12,2011,Barley,Area,Punjab,23.0
+2011-12,2011,Barley,Area Share,Punjab,32.0
+2011-12,2011,Barley,Production,Pakistan,66.0
+2011-12,2011,Barley,Production,Punjab,20.0
+2011-12,2011,Barley,Production Share,Punjab,30.0
+2011-12,2011,Cotton,Area,Pakistan,2835.0
+2011-12,2011,Cotton,Area,Punjab,2533.0
+2011-12,2011,Cotton,Area Share,Punjab,94.0
+2011-12,2011,Cotton,Production,Pakistan,13595.0
+2011-12,2011,Cotton,Production,Punjab,11129.0
+2011-12,2011,Cotton,Production Share,Punjab,82.0
+2011-12,2011,Gram,Area,Pakistan,1008.0
+2011-12,2011,Gram,Area,Punjab,920.0
+2011-12,2011,Gram,Area Share,Punjab,91.0
+2011-12,2011,Gram,Production,Pakistan,284.0
+2011-12,2011,Gram,Production,Punjab,225.0
+2011-12,2011,Gram,Production Share,Punjab,79.0
+2011-12,2011,Jowar,Area,Pakistan,214.0
+2011-12,2011,Jowar,Area,Punjab,173.0
+2011-12,2011,Jowar,Area Share,Punjab,81.0
+2011-12,2011,Jowar,Production,Pakistan,137.0
+2011-12,2011,Jowar,Production,Punjab,102.0
+2011-12,2011,Jowar,Production Share,Punjab,74.0
+2011-12,2011,Maize,Area,Pakistan,1087.0
+2011-12,2011,Maize,Area,Punjab,604.0
+2011-12,2011,Maize,Area Share,Punjab,56.0
+2011-12,2011,Maize,Production,Pakistan,4338.0
+2011-12,2011,Maize,Production,Punjab,3441.0
+2011-12,2011,Maize,Production Share,Punjab,79.0
+2011-12,2011,Rapeseed & Mustard,Area,Pakistan,201.0
+2011-12,2011,Rapeseed & Mustard,Area,Punjab,133.0
+2011-12,2011,Rapeseed & Mustard,Area Share,Punjab,66.0
+2011-12,2011,Rapeseed & Mustard,Production,Pakistan,162.0
+2011-12,2011,Rapeseed & Mustard,Production,Punjab,110.0
+2011-12,2011,Rapeseed & Mustard,Production Share,Punjab,68.0
+2011-12,2011,Rice,Area,Pakistan,2571.0
+2011-12,2011,Rice,Area,Punjab,1714.0
+2011-12,2011,Rice,Area Share,Punjab,67.0
+2011-12,2011,Rice,Production,Pakistan,6160.0
+2011-12,2011,Rice,Production,Punjab,3277.0
+2011-12,2011,Rice,Production Share,Punjab,53.0
+2011-12,2011,Sesamum,Area,Pakistan,76.0
+2011-12,2011,Sesamum,Area,Punjab,63.0
+2011-12,2011,Sesamum,Area Share,Punjab,63.0
+2011-12,2011,Sesamum,Production,Pakistan,30.0
+2011-12,2011,Sesamum,Production,Punjab,23.0
+2011-12,2011,Sesamum,Production Share,Punjab,77.0
+2011-12,2011,Sugarcane,Area,Pakistan,1058.0
+2011-12,2011,Sugarcane,Area,Punjab,663.0
+2011-12,2011,Sugarcane,Area Share,Punjab,63.0
+2011-12,2011,Sugarcane,Production,Pakistan,58396.0
+2011-12,2011,Sugarcane,Production,Punjab,42893.0
+2011-12,2011,Sugarcane,Production Share,Punjab,73.0
+2011-12,2011,Tobacco,Area,Pakistan,46.0
+2011-12,2011,Tobacco,Area,Punjab,15.0
+2011-12,2011,Tobacco,Area Share,Punjab,34.0
+2011-12,2011,Tobacco,Production,Pakistan,98.0
+2011-12,2011,Tobacco,Production,Punjab,20.0
+2011-12,2011,Tobacco,Production Share,Punjab,21.0
+2011-12,2011,Wheat,Area,Pakistan,8650.0
+2011-12,2011,Wheat,Area,Punjab,6483.0
+2011-12,2011,Wheat,Area Share,Punjab,75.0
+2011-12,2011,Wheat,Production,Pakistan,23473.0
+2011-12,2011,Wheat,Production,Punjab,17739.0
+2011-12,2011,Wheat,Production Share,Punjab,76.0
+2012-13,2012,Bajra,Area,Pakistan,461.0
+2012-13,2012,Bajra,Area,Punjab,409.0
+2012-13,2012,Bajra,Area Share,Punjab,89.0
+2012-13,2012,Bajra,Production,Pakistan,311.0
+2012-13,2012,Bajra,Production,Punjab,283.0
+2012-13,2012,Bajra,Production Share,Punjab,91.0
+2012-13,2012,Barley,Area,Pakistan,73.0
+2012-13,2012,Barley,Area,Punjab,25.0
+2012-13,2012,Barley,Area Share,Punjab,34.0
+2012-13,2012,Barley,Production,Pakistan,67.0
+2012-13,2012,Barley,Production,Punjab,22.0
+2012-13,2012,Barley,Production Share,Punjab,33.0
+2012-13,2012,Cotton,Area,Pakistan,2879.0
+2012-13,2012,Cotton,Area,Punjab,2308.0
+2012-13,2012,Cotton,Area Share,Punjab,81.0
+2012-13,2012,Cotton,Production,Pakistan,13031.0
+2012-13,2012,Cotton,Production,Punjab,9527.0
+2012-13,2012,Cotton,Production Share,Punjab,73.0
+2012-13,2012,Gram,Area,Pakistan,992.0
+2012-13,2012,Gram,Area,Punjab,908.0
+2012-13,2012,Gram,Area Share,Punjab,92.0
+2012-13,2012,Gram,Production,Pakistan,751.0
+2012-13,2012,Gram,Production,Punjab,691.0
+2012-13,2012,Gram,Production Share,Punjab,92.0
+2012-13,2012,Jowar,Area,Pakistan,199.0
+2012-13,2012,Jowar,Area,Punjab,165.0
+2012-13,2012,Jowar,Area Share,Punjab,83.0
+2012-13,2012,Jowar,Production,Pakistan,123.0
+2012-13,2012,Jowar,Production,Punjab,94.0
+2012-13,2012,Jowar,Production Share,Punjab,77.0
+2012-13,2012,Maize,Area,Pakistan,1060.0
+2012-13,2012,Maize,Area,Punjab,588.0
+2012-13,2012,Maize,Area Share,Punjab,42.0
+2012-13,2012,Maize,Production,Pakistan,4220.0
+2012-13,2012,Maize,Production,Punjab,3353.0
+2012-13,2012,Maize,Production Share,Punjab,45.0
+2012-13,2012,Rapeseed & Mustard,Area,Pakistan,224.0
+2012-13,2012,Rapeseed & Mustard,Area,Punjab,153.0
+2012-13,2012,Rapeseed & Mustard,Area Share,Punjab,68.0
+2012-13,2012,Rapeseed & Mustard,Production,Pakistan,203.0
+2012-13,2012,Rapeseed & Mustard,Production,Punjab,148.0
+2012-13,2012,Rapeseed & Mustard,Production Share,Punjab,73.0
+2012-13,2012,Rice,Area,Pakistan,2309.0
+2012-13,2012,Rice,Area,Punjab,1711.0
+2012-13,2012,Rice,Area Share,Punjab,74.0
+2012-13,2012,Rice,Production,Pakistan,5536.0
+2012-13,2012,Rice,Production,Punjab,3478.0
+2012-13,2012,Rice,Production Share,Punjab,63.0
+2012-13,2012,Sesamum,Area,Pakistan,71.0
+2012-13,2012,Sesamum,Area,Punjab,57.0
+2012-13,2012,Sesamum,Area Share,Punjab,57.0
+2012-13,2012,Sesamum,Production,Pakistan,29.0
+2012-13,2012,Sesamum,Production,Punjab,22.0
+2012-13,2012,Sesamum,Production Share,Punjab,75.0
+2012-13,2012,Sugarcane,Area,Pakistan,1129.0
+2012-13,2012,Sugarcane,Area,Punjab,754.0
+2012-13,2012,Sugarcane,Area Share,Punjab,67.0
+2012-13,2012,Sugarcane,Production,Pakistan,63750.0
+2012-13,2012,Sugarcane,Production,Punjab,42982.0
+2012-13,2012,Sugarcane,Production Share,Punjab,67.0
+2012-13,2012,Tobacco,Area,Pakistan,50.0
+2012-13,2012,Tobacco,Area,Punjab,17.0
+2012-13,2012,Tobacco,Area Share,Punjab,33.0
+2012-13,2012,Tobacco,Production,Pakistan,108.0
+2012-13,2012,Tobacco,Production,Punjab,23.0
+2012-13,2012,Tobacco,Production Share,Punjab,21.0
+2012-13,2012,Wheat,Area,Pakistan,8660.0
+2012-13,2012,Wheat,Area,Punjab,6511.0
+2012-13,2012,Wheat,Area Share,Punjab,75.0
+2012-13,2012,Wheat,Production,Pakistan,24211.0
+2012-13,2012,Wheat,Production,Punjab,18585.0
+2012-13,2012,Wheat,Production Share,Punjab,77.0
+2013-14,2013,Bajra,Area,Pakistan,475.0
+2013-14,2013,Bajra,Area,Punjab,423.0
+2013-14,2013,Bajra,Area Share,Punjab,89.0
+2013-14,2013,Bajra,Production,Pakistan,301.0
+2013-14,2013,Bajra,Production,Punjab,274.0
+2013-14,2013,Bajra,Production Share,Punjab,91.0
+2013-14,2013,Barley,Area,Pakistan,71.0
+2013-14,2013,Barley,Area,Punjab,24.0
+2013-14,2013,Barley,Area Share,Punjab,34.0
+2013-14,2013,Barley,Production,Pakistan,67.0
+2013-14,2013,Barley,Production,Punjab,22.0
+2013-14,2013,Barley,Production Share,Punjab,32.0
+2013-14,2013,Cotton,Area,Pakistan,2806.0
+2013-14,2013,Cotton,Area,Punjab,2199.0
+2013-14,2013,Cotton,Area Share,Punjab,76.0
+2013-14,2013,Cotton,Production,Pakistan,12769.0
+2013-14,2013,Cotton,Production,Punjab,9145.0
+2013-14,2013,Cotton,Production Share,Punjab,72.0
+2013-14,2013,Gram,Area,Pakistan,950.0
+2013-14,2013,Gram,Area,Punjab,858.0
+2013-14,2013,Gram,Area Share,Punjab,90.0
+2013-14,2013,Gram,Production,Pakistan,399.0
+2013-14,2013,Gram,Production,Punjab,331.0
+2013-14,2013,Gram,Production Share,Punjab,83.0
+2013-14,2013,Jowar,Area,Pakistan,198.0
+2013-14,2013,Jowar,Area,Punjab,160.0
+2013-14,2013,Jowar,Area Share,Punjab,81.0
+2013-14,2013,Jowar,Production,Pakistan,123.0
+2013-14,2013,Jowar,Production,Punjab,86.0
+2013-14,2013,Jowar,Production Share,Punjab,70.0
+2013-14,2013,Maize,Area,Pakistan,1169.0
+2013-14,2013,Maize,Area,Punjab,689.0
+2013-14,2013,Maize,Area Share,Punjab,41.0
+2013-14,2013,Maize,Production,Pakistan,4944.0
+2013-14,2013,Maize,Production,Punjab,4021.0
+2013-14,2013,Maize,Production Share,Punjab,46.0
+2013-14,2013,Rapeseed & Mustard,Area,Pakistan,228.0
+2013-14,2013,Rapeseed & Mustard,Area,Punjab,151.0
+2013-14,2013,Rapeseed & Mustard,Area Share,Punjab,67.0
+2013-14,2013,Rapeseed & Mustard,Production,Pakistan,213.0
+2013-14,2013,Rapeseed & Mustard,Production,Punjab,147.0
+2013-14,2013,Rapeseed & Mustard,Production Share,Punjab,69.0
+2013-14,2013,Rice,Area,Pakistan,2789.0
+2013-14,2013,Rice,Area,Punjab,1809.0
+2013-14,2013,Rice,Area Share,Punjab,65.0
+2013-14,2013,Rice,Production,Pakistan,6798.0
+2013-14,2013,Rice,Production,Punjab,3481.0
+2013-14,2013,Rice,Production Share,Punjab,51.0
+2013-14,2013,Sesamum,Area,Pakistan,82.0
+2013-14,2013,Sesamum,Area,Punjab,67.0
+2013-14,2013,Sesamum,Area Share,Punjab,67.0
+2013-14,2013,Sesamum,Production,Pakistan,33.0
+2013-14,2013,Sesamum,Production,Punjab,24.0
+2013-14,2013,Sesamum,Production Share,Punjab,75.0
+2013-14,2013,Sugarcane,Area,Pakistan,1173.0
+2013-14,2013,Sugarcane,Area,Punjab,764.0
+2013-14,2013,Sugarcane,Area Share,Punjab,65.0
+2013-14,2013,Sugarcane,Production,Pakistan,67460.0
+2013-14,2013,Sugarcane,Production,Punjab,43704.0
+2013-14,2013,Sugarcane,Production Share,Punjab,65.0
+2013-14,2013,Tobacco,Area,Pakistan,49.0
+2013-14,2013,Tobacco,Area,Punjab,18.0
+2013-14,2013,Tobacco,Area Share,Punjab,36.0
+2013-14,2013,Tobacco,Production,Pakistan,130.0
+2013-14,2013,Tobacco,Production,Punjab,27.0
+2013-14,2013,Tobacco,Production Share,Punjab,21.0
+2013-14,2013,Wheat,Area,Pakistan,9199.0
+2013-14,2013,Wheat,Area,Punjab,6901.0
+2013-14,2013,Wheat,Area Share,Punjab,75.0
+2013-14,2013,Wheat,Production,Pakistan,25979.0
+2013-14,2013,Wheat,Production,Punjab,19739.0
+2013-14,2013,Wheat,Production Share,Punjab,76.0
+2014-15,2014,Bajra,Area,Pakistan,462.0
+2014-15,2014,Bajra,Area,Punjab,411.0
+2014-15,2014,Bajra,Area Share,Punjab,89.0
+2014-15,2014,Bajra,Production,Pakistan,295.0
+2014-15,2014,Bajra,Production,Punjab,267.0
+2014-15,2014,Bajra,Production Share,Punjab,91.0
+2014-15,2014,Barley,Area,Pakistan,68.0
+2014-15,2014,Barley,Area,Punjab,24.0
+2014-15,2014,Barley,Area Share,Punjab,36.0
+2014-15,2014,Barley,Production,Pakistan,63.0
+2014-15,2014,Barley,Production,Punjab,21.0
+2014-15,2014,Barley,Production Share,Punjab,33.0
+2014-15,2014,Cotton,Area,Pakistan,2961.0
+2014-15,2014,Cotton,Area,Punjab,2321.0
+2014-15,2014,Cotton,Area Share,Punjab,83.0
+2014-15,2014,Cotton,Production,Pakistan,13960.0
+2014-15,2014,Cotton,Production,Punjab,10277.0
+2014-15,2014,Cotton,Production Share,Punjab,74.0
+2014-15,2014,Gram,Area,Pakistan,936.0
+2014-15,2014,Gram,Area,Punjab,864.0
+2014-15,2014,Gram,Area Share,Punjab,92.0
+2014-15,2014,Gram,Production,Pakistan,379.0
+2014-15,2014,Gram,Production,Punjab,322.0
+2014-15,2014,Gram,Production Share,Punjab,85.0
+2014-15,2014,Jowar,Area,Pakistan,195.0
+2014-15,2014,Jowar,Area,Punjab,160.0
+2014-15,2014,Jowar,Area Share,Punjab,82.0
+2014-15,2014,Jowar,Production,Pakistan,115.0
+2014-15,2014,Jowar,Production,Punjab,85.0
+2014-15,2014,Jowar,Production Share,Punjab,74.0
+2014-15,2014,Maize,Area,Pakistan,1143.0
+2014-15,2014,Maize,Area,Punjab,673.0
+2014-15,2014,Maize,Area Share,Punjab,41.0
+2014-15,2014,Maize,Production,Pakistan,4937.0
+2014-15,2014,Maize,Production,Punjab,4020.0
+2014-15,2014,Maize,Production Share,Punjab,46.0
+2014-15,2014,Rapeseed & Mustard,Area,Pakistan,198.0
+2014-15,2014,Rapeseed & Mustard,Area,Punjab,146.0
+2014-15,2014,Rapeseed & Mustard,Area Share,Punjab,74.0
+2014-15,2014,Rapeseed & Mustard,Production,Pakistan,199.0
+2014-15,2014,Rapeseed & Mustard,Production,Punjab,140.0
+2014-15,2014,Rapeseed & Mustard,Production Share,Punjab,70.0
+2014-15,2014,Rice,Area,Pakistan,2891.0
+2014-15,2014,Rice,Area,Punjab,1878.0
+2014-15,2014,Rice,Area Share,Punjab,65.0
+2014-15,2014,Rice,Production,Pakistan,7003.0
+2014-15,2014,Rice,Production,Punjab,3648.0
+2014-15,2014,Rice,Production Share,Punjab,52.0
+2014-15,2014,Sesamum,Area,Pakistan,85.0
+2014-15,2014,Sesamum,Area,Punjab,69.0
+2014-15,2014,Sesamum,Area Share,Punjab,69.0
+2014-15,2014,Sesamum,Production,Pakistan,34.0
+2014-15,2014,Sesamum,Production,Punjab,26.0
+2014-15,2014,Sesamum,Production Share,Punjab,75.0
+2014-15,2014,Sugarcane,Area,Pakistan,1141.0
+2014-15,2014,Sugarcane,Area,Punjab,710.0
+2014-15,2014,Sugarcane,Area Share,Punjab,62.0
+2014-15,2014,Sugarcane,Production,Pakistan,62827.0
+2014-15,2014,Sugarcane,Production,Punjab,41074.0
+2014-15,2014,Sugarcane,Production Share,Punjab,65.0
+2014-15,2014,Tobacco,Area,Pakistan,19.0
+2014-15,2014,Tobacco,Area,Punjab,18.0
+2014-15,2014,Tobacco,Area Share,Punjab,93.0
+2014-15,2014,Tobacco,Production,Pakistan,31.0
+2014-15,2014,Tobacco,Production,Punjab,29.0
+2014-15,2014,Tobacco,Production Share,Punjab,93.0
+2014-15,2014,Wheat,Area,Pakistan,9206.0
+2014-15,2014,Wheat,Area,Punjab,6980.0
+2014-15,2014,Wheat,Area Share,Punjab,76.0
+2014-15,2014,Wheat,Production,Pakistan,25086.0
+2014-15,2014,Wheat,Production,Punjab,19282.0
+2014-15,2014,Wheat,Production Share,Punjab,77.0
+2015-16,2015,Bajra,Area,Pakistan,487.0
+2015-16,2015,Bajra,Area,Punjab,434.0
+2015-16,2015,Bajra,Area Share,Punjab,89.0
+2015-16,2015,Bajra,Production,Pakistan,300.0
+2015-16,2015,Bajra,Production,Punjab,272.0
+2015-16,2015,Bajra,Production Share,Punjab,91.0
+2015-16,2015,Barley,Area,Pakistan,66.0
+2015-16,2015,Barley,Area,Punjab,23.0
+2015-16,2015,Barley,Area Share,Punjab,35.0
+2015-16,2015,Barley,Production,Pakistan,61.0
+2015-16,2015,Barley,Production,Punjab,20.0
+2015-16,2015,Barley,Production Share,Punjab,33.0
+2015-16,2015,Cotton,Area,Pakistan,2902.0
+2015-16,2015,Cotton,Area,Punjab,2242.0
+2015-16,2015,Cotton,Area Share,Punjab,76.0
+2015-16,2015,Cotton,Production,Pakistan,9917.0
+2015-16,2015,Cotton,Production,Punjab,6344.0
+2015-16,2015,Cotton,Production Share,Punjab,64.0
+2015-16,2015,Gram,Area,Pakistan,940.0
+2015-16,2015,Gram,Area,Punjab,855.0
+2015-16,2015,Gram,Area Share,Punjab,91.0
+2015-16,2015,Gram,Production,Pakistan,286.0
+2015-16,2015,Gram,Production,Punjab,227.0
+2015-16,2015,Gram,Production Share,Punjab,79.0
+2015-16,2015,Jowar,Area,Pakistan,274.0
+2015-16,2015,Jowar,Area,Punjab,231.0
+2015-16,2015,Jowar,Area Share,Punjab,85.0
+2015-16,2015,Jowar,Production,Pakistan,161.0
+2015-16,2015,Jowar,Production,Punjab,126.0
+2015-16,2015,Jowar,Production Share,Punjab,79.0
+2015-16,2015,Maize,Area,Pakistan,1210.0
+2015-16,2015,Maize,Area,Punjab,716.0
+2015-16,2015,Maize,Area Share,Punjab,59.0
+2015-16,2015,Maize,Production,Pakistan,5337.0
+2015-16,2015,Maize,Production,Punjab,4391.0
+2015-16,2015,Maize,Production Share,Punjab,82.0
+2015-16,2015,Rapeseed & Mustard,Area,Pakistan,192.0
+2015-16,2015,Rapeseed & Mustard,Area,Punjab,131.0
+2015-16,2015,Rapeseed & Mustard,Area Share,Punjab,68.0
+2015-16,2015,Rapeseed & Mustard,Production,Pakistan,179.0
+2015-16,2015,Rapeseed & Mustard,Production,Punjab,127.0
+2015-16,2015,Rapeseed & Mustard,Production Share,Punjab,71.0
+2015-16,2015,Rice,Area,Pakistan,2740.0
+2015-16,2015,Rice,Area,Punjab,1780.0
+2015-16,2015,Rice,Area Share,Punjab,65.0
+2015-16,2015,Rice,Production,Pakistan,6802.0
+2015-16,2015,Rice,Production,Punjab,3502.0
+2015-16,2015,Rice,Production Share,Punjab,51.0
+2015-16,2015,Sesamum,Area,Pakistan,79.0
+2015-16,2015,Sesamum,Area,Punjab,66.0
+2015-16,2015,Sesamum,Area Share,Punjab,84.0
+2015-16,2015,Sesamum,Production,Pakistan,32.0
+2015-16,2015,Sesamum,Production,Punjab,25.0
+2015-16,2015,Sesamum,Production Share,Punjab,78.0
+2015-16,2015,Sugarcane,Area,Pakistan,1132.0
+2015-16,2015,Sugarcane,Area,Punjab,705.0
+2015-16,2015,Sugarcane,Area Share,Punjab,62.0
+2015-16,2015,Sugarcane,Production,Pakistan,65483.0
+2015-16,2015,Sugarcane,Production,Punjab,41968.0
+2015-16,2015,Sugarcane,Production Share,Punjab,64.0
+2015-16,2015,Tobacco,Area,Pakistan,50.0
+2015-16,2015,Tobacco,Area,Punjab,18.0
+2015-16,2015,Tobacco,Area Share,Punjab,37.0
+2015-16,2015,Tobacco,Production,Pakistan,119.0
+2015-16,2015,Tobacco,Production,Punjab,32.0
+2015-16,2015,Tobacco,Production Share,Punjab,27.0
+2015-16,2015,Wheat,Area,Pakistan,9224.0
+2015-16,2015,Wheat,Area,Punjab,6914.0
+2015-16,2015,Wheat,Area Share,Punjab,75.0
+2015-16,2015,Wheat,Production,Pakistan,25633.0
+2015-16,2015,Wheat,Production,Punjab,19527.0
+2015-16,2015,Wheat,Production Share,Punjab,76.0
+2016-17,2016,Bajra,Area,Pakistan,469.0
+2016-17,2016,Bajra,Area,Punjab,417.0
+2016-17,2016,Bajra,Area Share,Punjab,89.0
+2016-17,2016,Bajra,Production,Pakistan,305.0
+2016-17,2016,Bajra,Production,Punjab,277.0
+2016-17,2016,Bajra,Production Share,Punjab,91.0
+2016-17,2016,Barley,Area,Pakistan,61.0
+2016-17,2016,Barley,Area,Punjab,22.0
+2016-17,2016,Barley,Area Share,Punjab,35.0
+2016-17,2016,Barley,Production,Pakistan,58.0
+2016-17,2016,Barley,Production,Punjab,20.0
+2016-17,2016,Barley,Production Share,Punjab,35.0
+2016-17,2016,Cotton,Area,Pakistan,2489.0
+2016-17,2016,Cotton,Area,Punjab,1815.0
+2016-17,2016,Cotton,Area Share,Punjab,63.0
+2016-17,2016,Cotton,Production,Pakistan,10671.0
+2016-17,2016,Cotton,Production,Punjab,6978.0
+2016-17,2016,Cotton,Production Share,Punjab,65.0
+2016-17,2016,Gram,Area,Pakistan,971.0
+2016-17,2016,Gram,Area,Punjab,880.0
+2016-17,2016,Gram,Area Share,Punjab,91.0
+2016-17,2016,Gram,Production,Pakistan,330.0
+2016-17,2016,Gram,Production,Punjab,263.0
+2016-17,2016,Gram,Production Share,Punjab,80.0
+2016-17,2016,Jowar,Area,Pakistan,257.0
+2016-17,2016,Jowar,Area,Punjab,213.0
+2016-17,2016,Jowar,Area Share,Punjab,83.0
+2016-17,2016,Jowar,Production,Pakistan,149.0
+2016-17,2016,Jowar,Production,Punjab,113.0
+2016-17,2016,Jowar,Production Share,Punjab,76.0
+2016-17,2016,Maize,Area,Pakistan,1348.0
+2016-17,2016,Maize,Area,Punjab,869.0
+2016-17,2016,Maize,Area Share,Punjab,64.0
+2016-17,2016,Maize,Production,Pakistan,6134.0
+2016-17,2016,Maize,Production,Punjab,5237.0
+2016-17,2016,Maize,Production Share,Punjab,85.0
+2016-17,2016,Rapeseed & Mustard,Area,Pakistan,177.0
+2016-17,2016,Rapeseed & Mustard,Area,Punjab,120.0
+2016-17,2016,Rapeseed & Mustard,Area Share,Punjab,68.0
+2016-17,2016,Rapeseed & Mustard,Production,Pakistan,165.0
+2016-17,2016,Rapeseed & Mustard,Production,Punjab,121.0
+2016-17,2016,Rapeseed & Mustard,Production Share,Punjab,73.0
+2016-17,2016,Rice,Area,Pakistan,2724.0
+2016-17,2016,Rice,Area,Punjab,1738.0
+2016-17,2016,Rice,Area Share,Punjab,64.0
+2016-17,2016,Rice,Production,Pakistan,6849.0
+2016-17,2016,Rice,Production,Punjab,3475.0
+2016-17,2016,Rice,Production Share,Punjab,51.0
+2016-17,2016,Sesamum,Area,Pakistan,76.0
+2016-17,2016,Sesamum,Area,Punjab,66.0
+2016-17,2016,Sesamum,Area Share,Punjab,86.0
+2016-17,2016,Sesamum,Production,Pakistan,34.0
+2016-17,2016,Sesamum,Production,Punjab,25.0
+2016-17,2016,Sesamum,Production Share,Punjab,73.0
+2016-17,2016,Sugarcane,Area,Pakistan,1218.0
+2016-17,2016,Sugarcane,Area,Punjab,777.0
+2016-17,2016,Sugarcane,Area Share,Punjab,64.0
+2016-17,2016,Sugarcane,Production,Pakistan,75482.0
+2016-17,2016,Sugarcane,Production,Punjab,49612.0
+2016-17,2016,Sugarcane,Production Share,Punjab,66.0
+2016-17,2016,Tobacco,Area,Pakistan,48.0
+2016-17,2016,Tobacco,Area,Punjab,18.0
+2016-17,2016,Tobacco,Area Share,Punjab,38.0
+2016-17,2016,Tobacco,Production,Pakistan,113.0
+2016-17,2016,Tobacco,Production,Punjab,32.0
+2016-17,2016,Tobacco,Production Share,Punjab,28.0
+2016-17,2016,Wheat,Area,Pakistan,8973.0
+2016-17,2016,Wheat,Area,Punjab,6660.0
+2016-17,2016,Wheat,Area Share,Punjab,74.0
+2016-17,2016,Wheat,Production,Pakistan,26674.0
+2016-17,2016,Wheat,Production,Punjab,20466.0
+2016-17,2016,Wheat,Production Share,Punjab,77.0
+2017-18,2017,Bajra,Area,Pakistan,489.0
+2017-18,2017,Bajra,Area,Punjab,436.0
+2017-18,2017,Bajra,Area Share,Punjab,89.0
+2017-18,2017,Bajra,Production,Pakistan,339.0
+2017-18,2017,Bajra,Production,Punjab,98.0
+2017-18,2017,Bajra,Production Share,Punjab,92.0
+2017-18,2017,Barley,Area,Pakistan,58.0
+2017-18,2017,Barley,Area,Punjab,21.0
+2017-18,2017,Barley,Area Share,Punjab,36.0
+2017-18,2017,Barley,Production,Pakistan,55.0
+2017-18,2017,Barley,Production,Punjab,19.0
+2017-18,2017,Barley,Production Share,Punjab,34.0
+2017-18,2017,Cotton,Area,Pakistan,2700.0
+2017-18,2017,Cotton,Area,Punjab,2053.0
+2017-18,2017,Cotton,Area Share,Punjab,82.0
+2017-18,2017,Cotton,Production,Pakistan,11946.0
+2017-18,2017,Cotton,Production,Punjab,8077.0
+2017-18,2017,Cotton,Production Share,Punjab,68.0
+2017-18,2017,Gram,Area,Pakistan,977.0
+2017-18,2017,Gram,Area,Punjab,892.0
+2017-18,2017,Gram,Area Share,Punjab,91.0
+2017-18,2017,Gram,Production,Pakistan,324.0
+2017-18,2017,Gram,Production,Punjab,261.0
+2017-18,2017,Gram,Production Share,Punjab,80.0
+2017-18,2017,Jowar,Area,Pakistan,255.0
+2017-18,2017,Jowar,Area,Punjab,220.0
+2017-18,2017,Jowar,Area Share,Punjab,86.0
+2017-18,2017,Jowar,Production,Pakistan,153.0
+2017-18,2017,Jowar,Production,Punjab,
+2017-18,2017,Jowar,Production Share,Punjab,
+2017-18,2017,Maize,Area,Pakistan,1251.0
+2017-18,2017,Maize,Area,Punjab,770.0
+2017-18,2017,Maize,Area Share,Punjab,62.0
+2017-18,2017,Maize,Production,Pakistan,5902.0
+2017-18,2017,Maize,Production,Punjab,5028.0
+2017-18,2017,Maize,Production Share,Punjab,85.0
+2017-18,2017,Rapeseed & Mustard,Area,Pakistan,200.0
+2017-18,2017,Rapeseed & Mustard,Area,Punjab,144.0
+2017-18,2017,Rapeseed & Mustard,Area Share,Punjab,72.0
+2017-18,2017,Rapeseed & Mustard,Production,Pakistan,195.0
+2017-18,2017,Rapeseed & Mustard,Production,Punjab,190.0
+2017-18,2017,Rapeseed & Mustard,Production Share,Punjab,98.0
+2017-18,2017,Rice,Area,Pakistan,2901.0
+2017-18,2017,Rice,Area,Punjab,1841.0
+2017-18,2017,Rice,Area Share,Punjab,63.0
+2017-18,2017,Rice,Production,Pakistan,7450.0
+2017-18,2017,Rice,Production,Punjab,3898.0
+2017-18,2017,Rice,Production Share,Punjab,52.0
+2017-18,2017,Sesamum,Area,Pakistan,83.0
+2017-18,2017,Sesamum,Area,Punjab,66.0
+2017-18,2017,Sesamum,Area Share,Punjab,79.0
+2017-18,2017,Sesamum,Production,Pakistan,35.0
+2017-18,2017,Sesamum,Production,Punjab,
+2017-18,2017,Sesamum,Production Share,Punjab,
+2017-18,2017,Sugarcane,Area,Pakistan,1342.0
+2017-18,2017,Sugarcane,Area,Punjab,858.0
+2017-18,2017,Sugarcane,Area Share,Punjab,64.0
+2017-18,2017,Sugarcane,Production,Pakistan,83333.0
+2017-18,2017,Sugarcane,Production,Punjab,55067.0
+2017-18,2017,Sugarcane,Production Share,Punjab,66.0
+2017-18,2017,Tobacco,Area,Pakistan,51.0
+2017-18,2017,Tobacco,Area,Punjab,18.0
+2017-18,2017,Tobacco,Area Share,Punjab,36.0
+2017-18,2017,Tobacco,Production,Pakistan,121.0
+2017-18,2017,Tobacco,Production,Punjab,32.0
+2017-18,2017,Tobacco,Production Share,Punjab,26.0
+2017-18,2017,Wheat,Area,Pakistan,8797.0
+2017-18,2017,Wheat,Area,Punjab,6560.0
+2017-18,2017,Wheat,Area Share,Punjab,75.0
+2017-18,2017,Wheat,Production,Pakistan,25076.0
+2017-18,2017,Wheat,Production,Punjab,19179.0
+2017-18,2017,Wheat,Production Share,Punjab,76.0
+2018-19,2018,Bajra,Area,Pakistan,456.0
+2018-19,2018,Bajra,Area,Punjab,445.0
+2018-19,2018,Bajra,Area Share,Punjab,98.0
+2018-19,2018,Bajra,Production,Pakistan,350.0
+2018-19,2018,Bajra,Production,Punjab,87.0
+2018-19,2018,Bajra,Production Share,Punjab,98.0
+2018-19,2018,Barley,Area,Pakistan,56.0
+2018-19,2018,Barley,Area,Punjab,20.0
+2018-19,2018,Barley,Area Share,Punjab,35.0
+2018-19,2018,Barley,Production,Pakistan,55.0
+2018-19,2018,Barley,Production,Punjab,18.0
+2018-19,2018,Barley,Production Share,Punjab,32.0
+2018-19,2018,Cotton,Area,Pakistan,2373.0
+2018-19,2018,Cotton,Area,Punjab,1888.0
+2018-19,2018,Cotton,Area Share,Punjab,70.0
+2018-19,2018,Cotton,Production,Pakistan,9861.0
+2018-19,2018,Cotton,Production,Punjab,6826.0
+2018-19,2018,Cotton,Production Share,Punjab,69.0
+2018-19,2018,Gram,Area,Pakistan,943.0
+2018-19,2018,Gram,Area,Punjab,856.0
+2018-19,2018,Gram,Area Share,Punjab,91.0
+2018-19,2018,Gram,Production,Pakistan,447.0
+2018-19,2018,Gram,Production,Punjab,377.0
+2018-19,2018,Gram,Production Share,Punjab,84.0
+2018-19,2018,Jowar,Area,Pakistan,241.0
+2018-19,2018,Jowar,Area,Punjab,212.0
+2018-19,2018,Jowar,Area Share,Punjab,88.0
+2018-19,2018,Jowar,Production,Pakistan,149.0
+2018-19,2018,Jowar,Production,Punjab,124.0
+2018-19,2018,Jowar,Production Share,Punjab,83.0
+2018-19,2018,Maize,Area,Pakistan,1374.0
+2018-19,2018,Maize,Area,Punjab,900.0
+2018-19,2018,Maize,Area Share,Punjab,65.0
+2018-19,2018,Maize,Production,Pakistan,6826.0
+2018-19,2018,Maize,Production,Punjab,5916.0
+2018-19,2018,Maize,Production Share,Punjab,87.0
+2018-19,2018,Rapeseed & Mustard,Area,Pakistan,264.0
+2018-19,2018,Rapeseed & Mustard,Area,Punjab,189.0
+2018-19,2018,Rapeseed & Mustard,Area Share,Punjab,
+2018-19,2018,Rapeseed & Mustard,Production,Pakistan,343.0
+2018-19,2018,Rapeseed & Mustard,Production,Punjab,275.0
+2018-19,2018,Rapeseed & Mustard,Production Share,Punjab,80.0
+2018-19,2018,Rice,Area,Pakistan,2814.0
+2018-19,2018,Rice,Area,Punjab,1904.0
+2018-19,2018,Rice,Area Share,Punjab,68.0
+2018-19,2018,Rice,Production,Pakistan,7202.0
+2018-19,2018,Rice,Production,Punjab,3979.0
+2018-19,2018,Rice,Production Share,Punjab,55.0
+2018-19,2018,Sesamum,Area,Pakistan,83.0
+2018-19,2018,Sesamum,Area,Punjab,71.0
+2018-19,2018,Sesamum,Area Share,Punjab,85.0
+2018-19,2018,Sesamum,Production,Pakistan,36.0
+2018-19,2018,Sesamum,Production,Punjab,29.0
+2018-19,2018,Sesamum,Production Share,Punjab,81.0
+2018-19,2018,Sugarcane,Area,Pakistan,1102.0
+2018-19,2018,Sugarcane,Area,Punjab,711.0
+2018-19,2018,Sugarcane,Area Share,Punjab,64.0
+2018-19,2018,Sugarcane,Production,Pakistan,67174.0
+2018-19,2018,Sugarcane,Production,Punjab,44906.0
+2018-19,2018,Sugarcane,Production Share,Punjab,67.0
+2018-19,2018,Tobacco,Area,Pakistan,45.0
+2018-19,2018,Tobacco,Area,Punjab,19.0
+2018-19,2018,Tobacco,Area Share,Punjab,42.0
+2018-19,2018,Tobacco,Production,Pakistan,104.0
+2018-19,2018,Tobacco,Production,Punjab,35.0
+2018-19,2018,Tobacco,Production Share,Punjab,33.0
+2018-19,2018,Wheat,Area,Pakistan,8805.0
+2018-19,2018,Wheat,Area,Punjab,6496.0
+2018-19,2018,Wheat,Area Share,Punjab,74.0
+2018-19,2018,Wheat,Production,Pakistan,24349.0
+2018-19,2018,Wheat,Production,Punjab,18377.0
+2018-19,2018,Wheat,Production Share,Punjab,75.0
+2019-20,2019,Bajra,Area,Pakistan,522.0
+2019-20,2019,Bajra,Area,Punjab,429.0
+2019-20,2019,Bajra,Area Share,Punjab,82.0
+2019-20,2019,Bajra,Production,Pakistan,384.0
+2019-20,2019,Bajra,Production,Punjab,336.0
+2019-20,2019,Bajra,Production Share,Punjab,87.0
+2019-20,2019,Barley,Area,Pakistan,49.0
+2019-20,2019,Barley,Area,Punjab,13.0
+2019-20,2019,Barley,Area Share,Punjab,26.0
+2019-20,2019,Barley,Production,Pakistan,47.0
+2019-20,2019,Barley,Production,Punjab,13.0
+2019-20,2019,Barley,Production Share,Punjab,27.0
+2019-20,2019,Cotton,Area,Pakistan,2517.0
+2019-20,2019,Cotton,Area,Punjab,1880.0
+2019-20,2019,Cotton,Area Share,Punjab,79.0
+2019-20,2019,Cotton,Production,Pakistan,9148.0
+2019-20,2019,Cotton,Production,Punjab,6306.0
+2019-20,2019,Cotton,Production Share,Punjab,69.0
+2019-20,2019,Gram,Area,Pakistan,944.0
+2019-20,2019,Gram,Area,Punjab,850.0
+2019-20,2019,Gram,Area Share,Punjab,90.0
+2019-20,2019,Gram,Production,Pakistan,498.0
+2019-20,2019,Gram,Production,Punjab,430.0
+2019-20,2019,Gram,Production Share,Punjab,86.0
+2019-20,2019,Jowar,Area,Pakistan,199.0
+2019-20,2019,Jowar,Area,Punjab,166.0
+2019-20,2019,Jowar,Area Share,Punjab,83.0
+2019-20,2019,Jowar,Production,Pakistan,121.0
+2019-20,2019,Jowar,Production,Punjab,93.0
+2019-20,2019,Jowar,Production Share,Punjab,77.0
+2019-20,2019,Maize,Area,Pakistan,1404.0
+2019-20,2019,Maize,Area,Punjab,945.0
+2019-20,2019,Maize,Area Share,Punjab,67.0
+2019-20,2019,Maize,Production,Pakistan,7883.0
+2019-20,2019,Maize,Production,Punjab,6995.0
+2019-20,2019,Maize,Production Share,Punjab,89.0
+2019-20,2019,Rapeseed & Mustard,Area,Pakistan,403.0
+2019-20,2019,Rapeseed & Mustard,Area,Punjab,322.0
+2019-20,2019,Rapeseed & Mustard,Area Share,Punjab,
+2019-20,2019,Rapeseed & Mustard,Production,Pakistan,520.0
+2019-20,2019,Rapeseed & Mustard,Production,Punjab,497.0
+2019-20,2019,Rapeseed & Mustard,Production Share,Punjab,96.0
+2019-20,2019,Rice,Area,Pakistan,3034.0
+2019-20,2019,Rice,Area,Punjab,2029.0
+2019-20,2019,Rice,Area Share,Punjab,67.0
+2019-20,2019,Rice,Production,Pakistan,7414.0
+2019-20,2019,Rice,Production,Punjab,4144.0
+2019-20,2019,Rice,Production Share,Punjab,56.0
+2019-20,2019,Sesamum,Area,Pakistan,140.0
+2019-20,2019,Sesamum,Area,Punjab,121.0
+2019-20,2019,Sesamum,Area Share,Punjab,87.0
+2019-20,2019,Sesamum,Production,Pakistan,64.0
+2019-20,2019,Sesamum,Production,Punjab,55.0
+2019-20,2019,Sesamum,Production Share,Punjab,86.0
+2019-20,2019,Sugarcane,Area,Pakistan,1040.0
+2019-20,2019,Sugarcane,Area,Punjab,643.0
+2019-20,2019,Sugarcane,Area Share,Punjab,62.0
+2019-20,2019,Sugarcane,Production,Pakistan,66380.0
+2019-20,2019,Sugarcane,Production,Punjab,43347.0
+2019-20,2019,Sugarcane,Production Share,Punjab,65.0
+2019-20,2019,Tobacco,Area,Pakistan,51.0
+2019-20,2019,Tobacco,Area,Punjab,22.0
+2019-20,2019,Tobacco,Area Share,Punjab,43.0
+2019-20,2019,Tobacco,Production,Pakistan,133.0
+2019-20,2019,Tobacco,Production,Punjab,60.0
+2019-20,2019,Tobacco,Production Share,Punjab,45.0
+2019-20,2019,Wheat,Area,Pakistan,9168.0
+2019-20,2019,Wheat,Area,Punjab,6515.0
+2019-20,2019,Wheat,Area Share,Punjab,71.0
+2019-20,2019,Wheat,Production,Pakistan,25248.0
+2019-20,2019,Wheat,Production,Punjab,19402.0
+2019-20,2019,Wheat,Production Share,Punjab,77.0
